@@ -1,0 +1,200 @@
+Uri: https://www-synapsext.org/
+File Name: C:\synapsext.org\www-synapsext.org\index.htm
+Content Type: text/html
+
+Uri: https://www-synapsext.org/sites/synapsext/files/assets/images/synapse-favicon-32x32.png
+File Name: C:\synapsext.org\www-synapsext.org\sites\synapsext\files\assets\images\synapse-favicon-32x32.png
+Content Type: image/png
+
+Uri: https://www-synapsext.org/sites/synapsext/files/assets/web/assets/mobirise-icons2/mobirise2.css
+File Name: C:\synapsext.org\www-synapsext.org\sites\synapsext\files\assets\web\assets\mobirise-icons2\mobirise2.css
+Content Type: text/css
+
+Uri: https://www-synapsext.org/sites/synapsext/files/assets/web/assets/mobirise-icons/mobirise-icons.css
+File Name: C:\synapsext.org\www-synapsext.org\sites\synapsext\files\assets\web\assets\mobirise-icons\mobirise-icons.css
+Content Type: text/css
+
+Uri: https://www-synapsext.org/sites/synapsext/files/assets/tether/tether.min.css
+File Name: C:\synapsext.org\www-synapsext.org\sites\synapsext\files\assets\tether\tether.min.css
+Content Type: text/css
+
+Uri: https://www-synapsext.org/sites/synapsext/files/assets/bootstrap/css/bootstrap.min.css
+File Name: C:\synapsext.org\www-synapsext.org\sites\synapsext\files\assets\bootstrap\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://www-synapsext.org/sites/synapsext/files/assets/bootstrap/css/bootstrap-grid.min.css
+File Name: C:\synapsext.org\www-synapsext.org\sites\synapsext\files\assets\bootstrap\css\bootstrap-grid.min.css
+Content Type: text/css
+
+Uri: https://www-synapsext.org/sites/synapsext/files/assets/bootstrap/css/bootstrap-reboot.min.css
+File Name: C:\synapsext.org\www-synapsext.org\sites\synapsext\files\assets\bootstrap\css\bootstrap-reboot.min.css
+Content Type: text/css
+
+Uri: https://www-synapsext.org/sites/synapsext/files/assets/dropdown/css/style.css
+File Name: C:\synapsext.org\www-synapsext.org\sites\synapsext\files\assets\dropdown\css\style.css
+Content Type: text/css
+
+Uri: https://www-synapsext.org/sites/synapsext/files/assets/socicon/css/styles.css
+File Name: C:\synapsext.org\www-synapsext.org\sites\synapsext\files\assets\socicon\css\styles.css
+Content Type: text/css
+
+Uri: https://www-synapsext.org/sites/synapsext/files/assets/theme/css/style.css
+File Name: C:\synapsext.org\www-synapsext.org\sites\synapsext\files\assets\theme\css\style.css
+Content Type: text/css
+
+Uri: https://www-synapsext.org/sites/synapsext/files/assets/mobirise/css/mbr-additional.css
+File Name: C:\synapsext.org\www-synapsext.org\sites\synapsext\files\assets\mobirise\css\mbr-additional.css
+Content Type: text/css
+
+Uri: https://www-synapsext.org/join.html
+File Name: C:\synapsext.org\www-synapsext.org\join.html
+Content Type: text/html
+
+Uri: https://synapsxt.net/
+File Name: C:\synapsext.org\www-synapsext.org\index-1.htm
+Content Type: text/html
+
+Uri: https://www-synapsext.org/terms.html
+File Name: C:\synapsext.org\www-synapsext.org\terms.html
+Content Type: text/html
+
+Uri: https://www-synapsext.org/privacy-policy.html
+File Name: C:\synapsext.org\www-synapsext.org\privacy-policy.html
+Content Type: text/html
+
+Uri: https://www-synapsext.org/disclaimer.html
+File Name: C:\synapsext.org\www-synapsext.org\disclaimer.html
+Content Type: text/html
+
+Uri: https://synapsexts.org/
+File Name: C:\synapsext.org\www-synapsext.org\index-2.htm
+Content Type: text/html
+
+Uri: https://www-synapsext.org/sites/synapsext/files/assets/images/synapse-xt-logo-558x110.png
+File Name: C:\synapsext.org\www-synapsext.org\sites\synapsext\files\assets\images\synapse-xt-logo-558x110.png
+Content Type: image/png
+
+Uri: https://www-synapsext.org/sites/synapsext/files/assets/images/synapse-xt3-400x400.png
+File Name: C:\synapsext.org\www-synapsext.org\sites\synapsext\files\assets\images\synapse-xt3-400x400.png
+Content Type: image/png
+
+Uri: https://www-synapsext.org/sites/synapsext/files/assets/images/synapsext1-669x357.png
+File Name: C:\synapsext.org\www-synapsext.org\sites\synapsext\files\assets\images\synapsext1-669x357.png
+Content Type: image/png
+
+Uri: https://www-synapsext.org/sites/synapsext/files/assets/images/synapsext-label-1022x390.png
+File Name: C:\synapsext.org\www-synapsext.org\sites\synapsext\files\assets\images\synapsext-label-1022x390.png
+Content Type: image/png
+
+Uri: https://www-synapsext.org/sites/synapsext/files/assets/images/prostrastream-secure-1076x249.png
+File Name: C:\synapsext.org\www-synapsext.org\sites\synapsext\files\assets\images\prostrastream-secure-1076x249.png
+Content Type: image/png
+
+Uri: https://www-synapsext.org/sites/synapsext/files/assets/web/assets/jquery/jquery.min.js
+File Name: C:\synapsext.org\www-synapsext.org\sites\synapsext\files\assets\web\assets\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://www-synapsext.org/sites/synapsext/files/assets/popper/popper.min.js
+File Name: C:\synapsext.org\www-synapsext.org\sites\synapsext\files\assets\popper\popper.min.js
+Content Type: application/javascript
+
+Uri: https://www-synapsext.org/sites/synapsext/files/assets/tether/tether.min.js
+File Name: C:\synapsext.org\www-synapsext.org\sites\synapsext\files\assets\tether\tether.min.js
+Content Type: application/javascript
+
+Uri: https://www-synapsext.org/sites/synapsext/files/assets/bootstrap/js/bootstrap.min.js
+File Name: C:\synapsext.org\www-synapsext.org\sites\synapsext\files\assets\bootstrap\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://www-synapsext.org/sites/synapsext/files/assets/smoothscroll/smooth-scroll.js
+File Name: C:\synapsext.org\www-synapsext.org\sites\synapsext\files\assets\smoothscroll\smooth-scroll.js
+Content Type: application/javascript
+
+Uri: https://www-synapsext.org/sites/synapsext/files/assets/dropdown/js/nav-dropdown.js
+File Name: C:\synapsext.org\www-synapsext.org\sites\synapsext\files\assets\dropdown\js\nav-dropdown.js
+Content Type: application/javascript
+
+Uri: https://www-synapsext.org/sites/synapsext/files/assets/dropdown/js/navbar-dropdown.js
+File Name: C:\synapsext.org\www-synapsext.org\sites\synapsext\files\assets\dropdown\js\navbar-dropdown.js
+Content Type: application/javascript
+
+Uri: https://www-synapsext.org/sites/synapsext/files/assets/touchswipe/jquery.touch-swipe.min.js
+File Name: C:\synapsext.org\www-synapsext.org\sites\synapsext\files\assets\touchswipe\jquery.touch-swipe.min.js
+Content Type: application/javascript
+
+Uri: https://www-synapsext.org/sites/synapsext/files/assets/parallax/jarallax.min.js
+File Name: C:\synapsext.org\www-synapsext.org\sites\synapsext\files\assets\parallax\jarallax.min.js
+Content Type: application/javascript
+
+Uri: https://www-synapsext.org/sites/synapsext/files/assets/mbr-switch-arrow/mbr-switch-arrow.js
+File Name: C:\synapsext.org\www-synapsext.org\sites\synapsext\files\assets\mbr-switch-arrow\mbr-switch-arrow.js
+Content Type: application/javascript
+
+Uri: https://www-synapsext.org/sites/synapsext/files/assets/theme/js/script.js
+File Name: C:\synapsext.org\www-synapsext.org\sites\synapsext\files\assets\theme\js\script.js
+Content Type: application/javascript
+
+Uri: https://www-synapsext.org/sites/synapsext/files/assets/web/assets/mobirise-icons2/mobirise2.eot
+File Name: C:\synapsext.org\www-synapsext.org\sites\synapsext\files\assets\web\assets\mobirise-icons2\mobirise2.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www-synapsext.org/sites/synapsext/files/assets/web/assets/mobirise-icons2/mobirise2.ttf
+File Name: C:\synapsext.org\www-synapsext.org\sites\synapsext\files\assets\web\assets\mobirise-icons2\mobirise2.ttf
+Content Type: font/ttf
+
+Uri: https://www-synapsext.org/sites/synapsext/files/assets/web/assets/mobirise-icons2/mobirise2.woff
+File Name: C:\synapsext.org\www-synapsext.org\sites\synapsext\files\assets\web\assets\mobirise-icons2\mobirise2.woff
+Content Type: font/woff
+
+Uri: https://www-synapsext.org/sites/synapsext/files/assets/web/assets/mobirise-icons2/mobirise2.svg
+File Name: C:\synapsext.org\www-synapsext.org\sites\synapsext\files\assets\web\assets\mobirise-icons2\mobirise2.svg
+Content Type: image/svg+xml
+
+Uri: https://www-synapsext.org/sites/synapsext/files/assets/web/assets/mobirise-icons/mobirise-icons.eot
+File Name: C:\synapsext.org\www-synapsext.org\sites\synapsext\files\assets\web\assets\mobirise-icons\mobirise-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www-synapsext.org/sites/synapsext/files/assets/web/assets/mobirise-icons/mobirise-icons.ttf
+File Name: C:\synapsext.org\www-synapsext.org\sites\synapsext\files\assets\web\assets\mobirise-icons\mobirise-icons.ttf
+Content Type: font/ttf
+
+Uri: https://www-synapsext.org/sites/synapsext/files/assets/web/assets/mobirise-icons/mobirise-icons.woff
+File Name: C:\synapsext.org\www-synapsext.org\sites\synapsext\files\assets\web\assets\mobirise-icons\mobirise-icons.woff
+Content Type: font/woff
+
+Uri: https://www-synapsext.org/sites/synapsext/files/assets/web/assets/mobirise-icons/mobirise-icons.svg
+File Name: C:\synapsext.org\www-synapsext.org\sites\synapsext\files\assets\web\assets\mobirise-icons\mobirise-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://www-synapsext.org/sites/synapsext/files/assets/socicon/fonts/socicon.eot
+File Name: C:\synapsext.org\www-synapsext.org\sites\synapsext\files\assets\socicon\fonts\socicon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www-synapsext.org/sites/synapsext/files/assets/socicon/fonts/socicon-1.eot
+File Name: C:\synapsext.org\www-synapsext.org\sites\synapsext\files\assets\socicon\fonts\socicon-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www-synapsext.org/sites/synapsext/files/assets/socicon/fonts/socicon.woff2
+File Name: C:\synapsext.org\www-synapsext.org\sites\synapsext\files\assets\socicon\fonts\socicon.woff2
+Content Type: font/woff2
+
+Uri: https://www-synapsext.org/sites/synapsext/files/assets/socicon/fonts/socicon.ttf
+File Name: C:\synapsext.org\www-synapsext.org\sites\synapsext\files\assets\socicon\fonts\socicon.ttf
+Content Type: font/ttf
+
+Uri: https://www-synapsext.org/sites/synapsext/files/assets/socicon/fonts/socicon.woff
+File Name: C:\synapsext.org\www-synapsext.org\sites\synapsext\files\assets\socicon\fonts\socicon.woff
+Content Type: font/woff
+
+Uri: https://www-synapsext.org/sites/synapsext/files/assets/socicon/fonts/socicon.svg
+File Name: C:\synapsext.org\www-synapsext.org\sites\synapsext\files\assets\socicon\fonts\socicon.svg
+Content Type: image/svg+xml
+
+Uri: https://www-synapsext.org/sites/synapsext/files/assets/images/body-bg-min-1400x875.jpg
+File Name: C:\synapsext.org\www-synapsext.org\sites\synapsext\files\assets\images\body-bg-min-1400x875.jpg
+Content Type: image/jpeg
+
+Uri: https://fonts.googleapis.com/css?family=Jost:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i&display=swap
+File Name: C:\synapsext.org\www-synapsext.org\css.css
+Content Type: text/css
+
